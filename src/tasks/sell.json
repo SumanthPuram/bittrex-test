@@ -1,0 +1,15 @@
+{
+  "sellOrders": [
+    {
+      "symbol": "LTC",
+      "quantity": 10,
+      "rate": 100
+    },
+    {
+      "symbol": "XLM",
+      "quantity": 10,
+      "rate": 0.85
+    }
+  ],
+  "receiveCurrency": "ETH"
+}
